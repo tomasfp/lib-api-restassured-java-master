@@ -1,0 +1,67 @@
+[
+  {
+    "productId": "1cd67dc1a43911b407ac8d202d66c51a66196040c0facec4c6c2db8819b1e6dd",
+    "productDetail": {
+      "currency": {
+        "code": "1001",
+        "symbol": "US$"
+      },
+      "family": {
+        "code": "007"
+      }
+    },
+    "productDisplayFeature": {
+      "displayName": "CUENTA MAESTRA",
+      "isProductHidden": false,
+      "isProductPreference": false,
+      "isBalanceHidden": false
+    },
+    "balanceInformation": {
+      "availableAmount": 119919.39
+    }
+  },
+  {
+    "productId": "ea07539cb77615e0732d619b188c4b01b1b48b65a5107424400505e7cd47edb7",
+    "nombre": "Percy",
+    "productDetail": {
+      "currency": {
+        "code": "0001",
+        "symbol": "S/"
+      },
+      "family": {
+        "code": "004"
+      }
+    },
+    "productDisplayFeature": {
+      "productDisplayFeatureId": "edbecbb2-3a05-4d46-b2dd-eb833b7b93af",
+      "displayName": "CUENTA CORRIENTE",
+      "isProductHidden": false,
+      "isProductPreference": false,
+      "isBalanceHidden": false
+    },
+    "balanceInformation": {
+      "availableAmount": -30.41
+    }
+  },
+  {
+    "productId": "c48cfc04fbdff250af99a6fceda8ee7d59fa0e5d0ca3b5c5362ae50c461718ae",
+    "productDetail": {
+      "currency": {
+        "code": "0001",
+        "symbol": "S/"
+      },
+      "family": {
+        "code": "005"
+      }
+    },
+    "productDisplayFeature": {
+      "displayName": "CUENTAS DE AHORRO",
+      "isProductHidden": false,
+      "isProductPreference": false,
+      "isBalanceHidden": false
+    },
+    "balanceInformation": {
+      "availableAmount": 119960.79
+    }
+  }
+]

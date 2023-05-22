@@ -1,0 +1,5 @@
+
+Running the service >>>
+    * Thread: {0},
+    * URI: {1},
+    * Method: {2}.

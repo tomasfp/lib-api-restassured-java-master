@@ -1,0 +1,15 @@
+###################
+### DATA DRIVEN ###
+###################
+ddt:
+  file: /Users/pmendozz/Documents/Pichincha/app/data/DDT_app_pichincha.xlsx
+
+###########################################################################
+### To use JDBC configuration, comment 'autoconfigure.exclude' property ###
+###########################################################################
+spring:
+  dataSource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:54322/db
+    username: xxxx
+    password: xxxx
